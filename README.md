@@ -1,6 +1,10 @@
 # c-stuff
 C games (using SDL) I wrote when I was a kid
 
+# Lightcat
+- Just an update done on my very first C program (after tutorials of course)
+- You can just move around with arrow keys and do stuff with SPACE, A and Backspace
+
 # Chess
 - You can play PvP
 - You can play against an AI (answering in a few seconds)
@@ -14,10 +18,6 @@ C games (using SDL) I wrote when I was a kid
 # Démineur 3D (Minesweeper in 3D)
 - Like the 2D version, but in 3D
 
-# Lightcat
-- Just an update done on my very first C program (after tutorials of course)
-- You can just move around with arrow keys and do stuff with SPACE, A and Backspace
-
 # One Shot for a Lot
 - A complete game
 - Very hard (I bet you can't beat it without cheating)
@@ -28,3 +28,12 @@ C games (using SDL) I wrote when I was a kid
 - 5 mini games following each other
 - Only 3 games are totally implemented (I think)
 - Music by V. Bergeron.
+
+# Evolution
+- A simulation of animal/species evolution
+- Initially started for my TIPE
+
+# GP
+- Finds a solution to a problem using genetic algorithm
+- My TIPE (2011/12)
+- More details in the available docs
