@@ -1,0 +1,38 @@
+
+
+
+|                                         Démineur 3D                                         |
+
+
+
+
+  - Laisser le fichier Démineur.exe dans son dossier d'origine :
+
+      Faire un raccourci si besoin est.
+
+
+  - Commandes utiles :
+
+      Souris                    :   Découvrir une case
+      Pavé numérique            :   Sélectionner un niveau
+      Entrée                    :   Commencer à jouer
+      Retour                    :   En cas d'erreur lors de la saisie du niveau
+      Echap                     :   Fermer
+      R                         :   Redémarrer le jeu
+      Clic droit                :   Mémo-mine
+      D                         :   Choisir un quadrillage n*n ( 5<n<27 et n pair )
+      Flèches directionnelles   :   Se déplacer sur les faces des cubes
+      A/Z                       :   Sortir/Rentrer dans le cube
+
+
+  - Le premier chiffre du niveau correspond au niveau de difficulté. Plus il est faible,
+
+      plus il est difficile. 
+
+  - Le score, lui aussi, est d'autant meilleur qu'il est faible. 
+
+  - Enjoy !
+
+
+
+                                                                                     MaxCorp 

@@ -1,0 +1,48 @@
+------------------------------------------------------------------------------------------------------
+
+                                       One Shot for a lot 0.7
+
+------------------------------------------------------------------------------------------------------
+
+##   Programmé en C avec la bibliothèque SDL. Musique d'Alexander Brandon.  ##
+
+
+-    But du jeu : Que chaque bille lancée atteigne ses cibles, de la même couleur qu'elle, en un seul tir.
+
+-    Une bille peut rebondir au maximum jusqu'à 5 fois, mais peut aussi être absorbée par des murs, ou
+  encore faire un demi-tour.
+     En progressant dans le jeu, vous découvrirez des particularités propres à chaque niveau. A vous de
+  les maîtriser.
+
+-    Pour jouer, vous devrez pointer votre curseur pour donner la trajectoire initiale de votre bille. 
+  Un clic la fera alors partir. Pour des niveaux plus élevés, il faudra rentrer toutes les trajectoires
+  avant de voir l'action commencer.
+     Attention : lorsque le jeu est en mouvement, il est nécessaire de patienter jusqu'à la fin de
+  l'action avant de pouvoir à nouveau relancer une bille ou interagir de manière quelconque.
+
+-    Lorsque vous avez complété un niveau, il est nécessaire d'appuyer sur ENTREE afin de passer au
+  niveau supérieur et de sauvegarder votre progression. Vous pourrez bien sûr, à tout moment, repasser
+  ce niveau à partir du menu principal, qui peut être rejoins à l'aide de la touche ECHAP.
+
+-    Tout au long du jeu, vous verrez votre score augmenter. Une fois le jeu terminé, votre score ne
+  bougera plus. Plus il sera faible, plus vous aurez fait un bon score et plus votre score sera bon,
+  plus le nombre de niveaux latéraux débloqués sera élevé.
+
+-    La fonction RESET, accessible au bas du menu, vous permet de remettre à zéro votre score. Mais
+  vous repositionnera au niveau 1. Ce sera un passage obligatoire si vous souhaitez faire un meilleur
+  score.
+
+-    Vous pouvez passez du mode fenêtre au mode plein écran à l'aide de la touche F1, couper ou remettre
+  le son par l'intermédiaire de la touche P ou encore quitter le jeu avec F4.
+
+
+-    Si vous rencontrez des problèmes ou souhaitez simplement me contacter, vous pouvez m'envoyer un
+  e-mail à l'adresse :     maxime.niankouri@free.fr
+
+
+         
+           Bon jeu !
+
+
+
+                                                                             Maxime Niankouri , 12/2010 

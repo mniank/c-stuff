@@ -1,0 +1,7 @@
+Lors de la restitution de partie : pion arrivant en fin de ligne (pas de changement de skin)
+
+L'IA ne reconnait pas le changement de pièce avec le pion en fin de ligne.
+
+Les baisers de la mort ne sont pas toujours détectés
+
+REPLAY : Pion en fin de ligne et roque.
